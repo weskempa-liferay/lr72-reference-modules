@@ -1,0 +1,4 @@
+Bundle-Name: AlloyEditorStyles
+Bundle-SymbolicName: AlloyEditorStyles
+Bundle-Version: 1.0.0
+Export-Package: AlloyEditorStyles.constants
